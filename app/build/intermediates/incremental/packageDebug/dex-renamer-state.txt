@@ -1,0 +1,7 @@
+#Thu Mar 02 16:56:42 PST 2017
+base.0=/Users/aidenfang/Downloads/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7eca46e11f6e8d41743c46a71e669e293f62f583
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/aidenfang/Downloads/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0dc60ffadc49f829e93bcf7b4a37064c87b79e22/classes.dex
+base.1=/Users/aidenfang/Downloads/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0dc60ffadc49f829e93bcf7b4a37064c87b79e22
+file.0=/Users/aidenfang/Downloads/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7eca46e11f6e8d41743c46a71e669e293f62f583/classes.dex
